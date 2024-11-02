@@ -1,0 +1,2 @@
+all:
+	../ecc hello.c
